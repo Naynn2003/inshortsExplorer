@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inshortsExplorer/static/css/main.e6c13ad2.css",
+    "main.js": "/inshortsExplorer/static/js/main.8a38c20d.js",
+    "static/js/453.74a26706.chunk.js": "/inshortsExplorer/static/js/453.74a26706.chunk.js",
+    "index.html": "/inshortsExplorer/index.html",
+    "main.e6c13ad2.css.map": "/inshortsExplorer/static/css/main.e6c13ad2.css.map",
+    "main.8a38c20d.js.map": "/inshortsExplorer/static/js/main.8a38c20d.js.map",
+    "453.74a26706.chunk.js.map": "/inshortsExplorer/static/js/453.74a26706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a38c20d.js"
+  ]
+}
